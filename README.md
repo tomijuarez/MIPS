@@ -6,4 +6,4 @@ Procesador MIPS con operaciones inmediatas; proyecto final de cursada de Arquite
 - Program 3 es el programa assembler con inmediatos.
 
 #Contacto
-Cualquier duda o sugerencia contactarse a tomasjuarez.exa@gmail.com
+Cualquier duda o sugerencia contactarse a tomasjuarez.exa@gmail.com.
